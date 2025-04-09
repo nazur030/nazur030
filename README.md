@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Ts. Muhammad Nazur Syahmi
 
-<!--
-**nazur030/nazur030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Embedded Systems Specialist | IoT Developer | Hardware Innovator
 
-Here are some ideas to get you started:
+I'm passionate about building modular, real-world embedded solutions that make an impact. From smart agriculture to indoor air quality systems and automotive control, my goal is to engineer devices that solve problems — reliably and efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I Do
+
+- 🖥️ **Embedded Firmware Development** (ESP32, Arduino, ATmega328)
+- 📡 **IoT Solutions** (LoRa, GSM, Modbus, Wi-Fi)
+- 🛠️ **Hardware Design** (EasyEDA, Altium, Custom PCBs)
+- 🌐 **Cloud Integration** (Favoriot, HTTP POST, MQTT)
+- 📊 **Data Logging & Visualization** (CSV, Dashboards, PHP Backends)
+
+---
+
+### 🌟 Featured Projects
+
+🔹 **ESP32 Modular Datalogger** *(Coming Soon)*  
+A robust data acquisition system with SD logging, LoRa, and Modbus integration.
+
+🔹 **Indoor Air Quality (IAQ) System** *(Coming Soon)*  
+Low-power node-based system with multi-gas sensors and cloud reporting.
+
+🔹 **Automotive Throttle Controller** *(Coming Soon)*  
+Real-time adjustable controller for ETC systems with OLED UI and safety fallback.
+
+🔹 **Corrosion Monitoring Unit** *(WIP)*  
+Remote CP monitoring system with LoRa + GSM integration for pipelines.
+
+---
+
+### 📚 Certifications & Training
+
+- ✅ Ts. Certification – Malaysia Board of Technologists (MBOT)
+- 📘 IoT Developer Training – Favoriot
+- 💻 Embedded Systems, IoT, and Hardware Training – Udemy
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nazursyahmi/)
+- 🖥️ [GitHub](https://github.com/nazur030)
+- 📬 Email: nazur.syahmi@gmail.com
+- 📱 Phone: +6014-9466234
+
+Thank you for visiting — feel free to explore my projects or reach out!
