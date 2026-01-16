@@ -41,13 +41,6 @@ using LoRa and GSM connectivity for remote pipeline assets.
 
 ---
 
-## 📚 Certifications & Training
-- **Professional Technologist (Ts.)** – Malaysia Board of Technologists (MBOT)
-- **IoT Developer Training** – Favoriot
-- **Embedded Systems & IoT Courses** – Udemy
-
----
-
 ## 📫 Contact
 - 💼 LinkedIn: www.linkedin.com/in/nazursyahmi
 - 📧 Email: nazur.syahmi@gmail.com
