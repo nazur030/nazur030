@@ -1,50 +1,56 @@
-# 👋 Hi, I'm Ts. Muhammad Nazur Syahmi
+# Hi, I'm Ts. Muhammad Nazur Syahmi 👋
 
-🚀 Embedded Systems Specialist | IoT Developer | Hardware Innovator
+I am a junior Embedded Systems & IoT engineer with hands-on experience
+building proof-of-concept IoT systems involving custom hardware,
+embedded firmware, and device-to-cloud data integration.
 
-I'm passionate about building modular, real-world embedded solutions that make an impact. From smart agriculture to indoor air quality systems and automotive control, my goal is to engineer devices that solve problems — reliably and efficiently.
-
----
-
-### 🔧 What I Do
-
-- 🖥️ **Embedded Firmware Development** (ESP32, Arduino, ATmega328)
-- 📡 **IoT Solutions** (LoRa, GSM, Modbus, Wi-Fi)
-- 🛠️ **Hardware Design** (EasyEDA, Altium, Custom PCBs)
-- 🌐 **Cloud Integration** (Favoriot, HTTP POST, MQTT)
-- 📊 **Data Logging & Visualization** (CSV, Dashboards, PHP Backends)
+My interests focus on developing reliable, modular embedded devices
+for real-world applications such as environmental monitoring,
+industrial sensing, and automotive systems.
 
 ---
 
-### 🌟 Featured Projects
-
-🔹 **ESP32 Modular Datalogger** *(Coming Soon)*  
-A robust data acquisition system with SD logging, LoRa, and Modbus integration.
-
-🔹 **Indoor Air Quality (IAQ) System** *(Coming Soon)*  
-Low-power node-based system with multi-gas sensors and cloud reporting.
-
-🔹 **Automotive Throttle Controller** *(Coming Soon)*  
-Real-time adjustable controller for ETC systems with OLED UI and safety fallback.
-
-🔹 **Corrosion Monitoring Unit** *(WIP)*  
-Remote CP monitoring system with LoRa + GSM integration for pipelines.
+## 🔧 Technical Focus Areas
+- **Embedded Firmware:** ESP32, ATmega328 (Arduino framework)
+- **Connectivity:** LoRa, GSM, Wi-Fi, Modbus
+- **Hardware Design:** EasyEDA, Altium, custom PCB design
+- **Cloud Integration:** MQTT, HTTP POST (Favoriot)
+- **Data Handling:** SQL, CSV logging, simple dashboards (PHP-based)
 
 ---
 
-### 📚 Certifications & Training
+## 📁 Featured IoT Projects
 
-- ✅ Ts. Certification – Malaysia Board of Technologists (MBOT)
-- 📘 IoT Developer Training – Favoriot
-- 💻 Embedded Systems, IoT, and Hardware Training – Udemy
+🔹 **ESP32 Modular Datalogger (Work in Progress)**  
+A modular data acquisition node supporting SD card logging,
+LoRa communication, and Modbus-based sensors.
+
+🔹 **Indoor Air Quality (IAQ) Monitoring System (Proof of Concept)**  
+Low-power sensor node system for multi-gas monitoring with
+cloud-based data reporting and basic visualization.
+
+🔹 **Automotive Throttle Controller (Proof of Concept)**  
+A real-time adjustable electronic throttle controller with
+OLED interface and safety fallback mechanisms.
+
+🔹 **Remote Corrosion Monitoring Unit (WIP)**  
+An industrial IoT concept for cathodic protection monitoring
+using LoRa and GSM connectivity for remote pipeline assets.
+
+> Note: Project details are partially anonymized to respect confidentiality.
 
 ---
 
-### 📫 Connect with Me
+## 📚 Certifications & Training
+- **Professional Technologist (Ts.)** – Malaysia Board of Technologists (MBOT)
+- **IoT Developer Training** – Favoriot
+- **Embedded Systems & IoT Courses** – Udemy
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nazursyahmi/)
-- 🖥️ [GitHub](https://github.com/nazur030)
-- 📬 Email: nazur.syahmi@gmail.com
-- 📱 Phone: +6014-9466234
+---
 
-Thank you for visiting — feel free to explore my projects or reach out!
+## 📫 Contact
+- 💼 LinkedIn: www.linkedin.com/in/nazursyahmi
+- 📧 Email: nazur.syahmi@gmail.com
+
+Feel free to explore the repositories to see system architecture,
+hardware decisions, and lessons learned from each project.
