@@ -1,6 +1,6 @@
 # Hi, I'm Ts. Muhammad Nazur Syahmi 👋
 
-I am a junior Embedded Systems & IoT engineer with hands-on experience
+I am a IoT engineer with hands-on experience
 building proof-of-concept IoT systems involving custom hardware,
 embedded firmware, and device-to-cloud data integration.
 
@@ -14,8 +14,8 @@ industrial sensing, and automotive systems.
 - **Embedded Firmware:** ESP32, ATmega328 (Arduino framework)
 - **Connectivity:** LoRa, GSM, Wi-Fi, Modbus
 - **Hardware Design:** EasyEDA, Altium, custom PCB design
-- **Cloud Integration:** MQTT, HTTP POST (Favoriot)
-- **Data Handling:** SQL, CSV logging, simple dashboards (PHP-based)
+- **Cloud Integration:** MQTT, HTTP POST
+- **Data Handling:** SQL, CSV logging, simple dashboards
 
 ---
 
